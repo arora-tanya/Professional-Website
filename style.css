@@ -1,0 +1,113 @@
+.custom_nav{
+    font-family: small;
+    box-shadow: 0px 2px 12px rgba(0,0,0,0.3);
+}
+.custom-divider{
+    height:5px;
+    background: rgb(228,96,34);
+    background: linear-gradient(90deg, rgba(228,96,34,1) 0%, rgba(5,4,72,1) 15%, rgba(250,18,104,1) 35%, rgba(38,206,207,1) 59%, rgba(28,207,3,1) 77%, rgba(142,201,213,1) 100%);
+}
+.main-banner{
+    padding-top: 150px;
+    padding-bottom: 100px;
+    background-image: url(img/bg-4.png);
+    background-size: cover;
+    color: white;
+}
+.feature-holder{
+    text-align: center;
+    margin-bottom: 25px;
+}
+.features{
+    padding-top: 35px;
+    padding-bottom: 35px;
+    background-color:whitesmoke;
+}
+.feature-holder h3{
+    font-size: 1.2em;
+}
+.feature-holder p{
+    font-size: 14px;
+}
+section.online-courses, .classroom-training, .Page-Content{
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+.online-courses-text-widget, .classroom-courses-text-widget {
+    text-align: center;
+}
+.online-courses-text-widget h2, .classroom-courses-text-widget h2 {
+    font-size: 1.3em;
+}
+.online-courses-text-widget p, .classroom-courses-text-widget p{
+    font-size: 14px;
+}
+.online-course-card{
+    text-align: center;
+    margin-bottom: 25px;
+}
+.online-course-card .card-title{
+    font-size: 1.2em;
+    line-height: 25px;
+}
+.online-course-card .card-text{
+    font-size: 14px;
+}
+.classroom-training, .Page-Content{
+    background-color: whitesmoke;
+}
+.sign-up-form-sidebar .card-title{
+    font-size: 1.2em;
+}
+.sign-up-form-sidebar .card-text{
+    font-size: 14px;
+}
+.course-list-item{
+    color: black;
+    font-size:small;
+    padding-top:20px;
+}
+footer.main-footer {
+    background-color:#2f2f2f;
+    color: white;
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+aside.Footer-widget {
+    margin-bottom: 25px;
+}
+aside.Footer-widget h5 {
+    font-size: 16px;
+}
+aside.Footer-widget ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+aside.Footer-widget ul li a {
+    text-decoration: none;
+    font-size: 14px;
+    color: #cac7c7;
+    display: inline-block;
+    margin-bottom: 5px;
+}
+address h2 {
+    font-size: 20px;
+}
+address p {
+    font-size: 14px;
+}
+section.copy {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: black;
+    color: white;
+    font-size: 14px;
+    text-align: center;
+}
+section.copy p{
+    margin: 0px;
+}
+.google-map{
+    padding-top:56px;
+}
